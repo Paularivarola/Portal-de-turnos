@@ -4,13 +4,15 @@ Nutrimed es una pagina web destinada a centro de salud de baja complejidad, fue 
 
 ![image](https://i.postimg.cc/ht8nLg1P/nutrimed-herokuapp-com-2021-10-27-04-24-59.png)
 
-### Demo
+## Empezamos! 🚀
 
-* [Nutrimed](https://nutrimed.herokuapp.com)
-
-### Instalación 🔧
-
+```bash
+# Instalar dependencias para el cliente
 npm install
+
+# Ejecutar
+npm start
+```
 
 ###  Technologies 🛠️
 
@@ -28,8 +30,8 @@ npm install
 * [Nodemailer](https://nodemailer.com/about/)
 
 ---
+## Desarrollado por 🤓
 
-Autores
 * [Carla Alderete](https://github.com/CarlaAlderete)
 * [Franco Quattrini](https://github.com/franqodev)
 * [Rodrigo Goitia](https://github.com/goitiarodrigo)
